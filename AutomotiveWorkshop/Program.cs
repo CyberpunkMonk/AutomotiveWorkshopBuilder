@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-namespace DoFactory.GangOfFour.Builder.RealWorld {
+namespace AutomotiveFactory {
 	/// <summary>
 	/// MainApp startup class for Real-World 
 	/// Builder Design Pattern.
